@@ -1,0 +1,8 @@
+﻿  learnopengl-test.cpp
+C:\Users\Administrator\Desktop\learnopengl-test\learnopengl-test\learnopengl-test.cpp(332,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\learnopengl-test\learnopengl-test\learnopengl-test.cpp(333,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\learnopengl-test\learnopengl-test\learnopengl-test.cpp(336,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\learnopengl-test\learnopengl-test\learnopengl-test.cpp(337,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\learnopengl-test\learnopengl-test\learnopengl-test.cpp(338,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\learnopengl-test\learnopengl-test\learnopengl-test.cpp(339,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  learnopengl-test.vcxproj -> C:\Users\Administrator\Desktop\learnopengl-test\x64\Debug\learnopengl-test.exe
